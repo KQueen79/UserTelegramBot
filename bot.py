@@ -91,7 +91,7 @@ async def suscriptores(update: Update, context: ContextTypes.DEFAULT_TYPE) -> No
     await update.message.reply_text(respuesta)
 
 def main() -> None:
-    application = ApplicationBuilder().token("7250794654:AAF5vW_My4QEfmuTpp6YOYsC1RyrbhX205o").build()
+    application = ApplicationBuilder().token("AQUI EL TOKEN DE TELEGRAM").build()
 
     application.add_handler(CommandHandler("start", start))
     application.add_handler(MessageHandler(filters.CONTACT, contact))

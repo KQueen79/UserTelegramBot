@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://64.media.tumblr.com/52138e81f9b6378e43b2a6e0c8563874/cceeceecf04c75e3-fe/s96x96u_c1/2d838a79bc6b431a9cc8bf09866fcfdbc0e2ee9c.pnj" alt="Logo" width="200">
+  <img src="https://64.media.tumblr.com/52138e81f9b6378e43b2a6e0c8563874/cceeceecf04c75e3-fe/s96x96u_c1/2d838a79bc6b431a9cc8bf09866fcfdbc0e2ee9c.pnj" alt="Logo" width="150">
   <h1 style="color:#FFC918;">🎉 Telegram Bot 🎉</h1>
   <p style="color:#333333;">
-    Un bot de administración de Telegram que gestiona suscriptores y permite a los usuarios compartir la música que están escuchando. ¡Vamos a rockear! 🎸
+    Un bot de administración de Telegram que gestiona suscriptores y permite a los usuarios compartir la música que están escuchando, administra datos del usuario para su mejor control de modo organizado y de manera encriptada tanto la lada como la numeracion telefonica.
   </p>
 </div>
 

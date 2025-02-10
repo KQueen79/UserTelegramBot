@@ -19,11 +19,14 @@ Bot para administrar Usuarios, tener un control de sus numeros de telefono regis
 
 ## 📋 Comandos Disponibles
 
-- `/start` - Inicia la conversación con el bot y solicita al usuario que comparta su número de teléfono.
-- `/musica [nombre de la canción]` - Permite a los usuarios compartir el nombre de la canción que están escuchando y genera un enlace de descarga.
-- `/mostrar_musica` - Muestra la música que los usuarios han compartido en las últimas 24 horas con enlaces de descarga.
-- `/suscriptores` - Muestra una lista de suscriptores activos en las últimas 24 horas y suscriptores inactivos en los últimos 7 días, incluyendo su lada y número de teléfono.
-- `/send` - Envía un mensaje al canal `@CMenvivo`.
+- `/start`: Inicia la conversación con el bot y solicita al usuario que comparta su número de teléfono.
+- `/musica [nombre de la canción]`: Permite a los usuarios compartir el nombre de la canción que están escuchando y genera un enlace de descarga.
+- `/mostrar_musica`: Muestra la música que los usuarios han compartido en las últimas 24 horas con enlaces de descarga.
+- `/suscriptores`: Muestra una lista de suscriptores activos en las últimas 24 horas y suscriptores inactivos en los últimos 7 días, incluyendo su lada y número de teléfono.
+- `/send`: Envía un mensaje al canal `@CMenvivo`.
+- `/recompensas`: Muestra cuántos puntos ha acumulado el usuario y las recompensas disponibles.
+- `/encuesta`: Envía una encuesta interactiva para obtener feedback de los suscriptores.
+- `/recordatorio [segundos]`: Establece un recordatorio para el tiempo especificado en segundos.
 
 ## 🛠️ Requisitos
 
